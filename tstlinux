@@ -1,0 +1,6 @@
+Creating a new file for linux.
+mkdir (making a directory)
+rmdir (removing a directory)
+touch (creating a new file)
+rm (removing a file)
+rm -rf (Removing a file forcefully)
