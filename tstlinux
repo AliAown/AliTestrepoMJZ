@@ -17,3 +17,17 @@ ls -l (Shows the Permissions)
 usermod -aG wheel sudo(as User name) | (to gives the user perivillages)
 visudo or /etc/sudoers (To give user all the root privillage)
 chmod (To change permission of a user or group)
+
+<----------------------------------------------------------------->
+QS: What version of Kernel you are using?
+AS: uname -r or uname -a
+QS: Change hostname ?
+AS: vi /etc/hostname (Permanently will be Changed)
+QS: How to check version(released) you using of DISTRO?
+AS: cat /etc/redhat-release or cat /etc/issues
+QS: How to check Hardware System?
+AS: centos ; sudo dmidecode, root ; dmidecode
+QS: How to check load Average(Time) on the system?
+AS: uptime
+QS: How to check network interface on the system?
+AS: ifconfig
